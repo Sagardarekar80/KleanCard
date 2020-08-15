@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73949" started-at="2020-08-15T09:15:04Z" finished-at="2020-08-15T09:16:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73949" started-at="2020-08-15T09:15:04Z" finished-at="2020-08-15T09:16:18Z">
+      <class name="com.signup.LogInPage">
+        <test-method status="PASS" signature="openAppln()[pri:0, instance:com.signup.LogInPage@1d99928]" name="openAppln" is-config="true" duration-ms="52620" started-at="2020-08-15T14:45:04Z" finished-at="2020-08-15T14:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAppln -->
+        <test-method status="PASS" signature="LogInTest()[pri:0, instance:com.signup.LogInPage@1d99928]" name="LogInTest" duration-ms="10841" started-at="2020-08-15T14:45:57Z" finished-at="2020-08-15T14:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInTest -->
+        <test-method status="PASS" signature="closeAppln()[pri:0, instance:com.signup.LogInPage@1d99928]" name="closeAppln" is-config="true" duration-ms="10439" started-at="2020-08-15T14:46:08Z" finished-at="2020-08-15T14:46:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAppln -->
+      </class> <!-- com.signup.LogInPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
